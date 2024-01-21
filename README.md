@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rickdgray
+- 👋 Hey, I’m rickdgray
 - 👀 I like computers
 - 💻 My favorite language is C#
-- 🏫 I’m currently studying data science at UT Austin
-- 📫 Check out my [website](http://rickdgray.com)!
+- 🏫 I have a masters in data science from UT Austin
+- 📫 Check out my [website](http://rickdgray.com)
